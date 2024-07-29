@@ -1,0 +1,188 @@
+[
+    {
+        "subtitle": "",
+        "name": "",
+        "job": [
+            "",
+            "",
+            ""
+        ],
+        "about": [
+            "",
+            "",
+            ""
+        ],
+        "emails": [
+            ""
+        ],
+        "phone": [
+            ""
+        ],
+        "location": [
+            ""
+        ],
+        "social": [
+            {
+                "name": "",
+                "link": "",
+                "type": "",
+                "iconName": ""
+            },
+            {
+                "name": "",
+                "link": "",
+                "type": "",
+                "iconName": ""
+            },
+            {
+                "name": "",
+                "link": "",
+                "type": "",
+                "iconName": ""
+            },
+            {
+                "name": "",
+                "link": "",
+                "type": "",
+                "iconName": ""
+            }
+        ],
+        "images": [
+            {
+                "src": "",
+                "name": ""
+            },
+            {
+                "src": "assets/img/p-1.jpg",
+                "name": ""
+            }
+        ],
+        "video": [
+            {
+                "src": ""
+            }
+        ],
+        "skills": [
+            {
+                "skill": "",
+                "Percentage": 80
+            },
+            {
+                "skill": "",
+                "Percentage": 75
+            },
+            {
+                "skill": "",
+                "Percentage": 70
+            }
+        ],
+        "experience": [
+            {
+                "company": "",
+                "time": "",
+                "description": ""
+            },
+            {
+                "company": "",
+                "time": "",
+                "description": ""
+            },
+            {
+                "company": "",
+                "time": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+      "subtitle": "Hello! My name is Elya —",
+      "name": "",
+      "job": [
+          "Full-Stack SWE",
+          "Designer"
+      ],
+      "about": [
+          "",
+          "",
+          ""
+      ],
+      "emails": [
+          "hello@elya.dev"
+      ],
+      "location": [
+          "New Orleans, LA"
+      ],
+      "social": [
+          {
+              "name": "Github",
+              "link": "",
+              "type": "fab",
+              "iconName": "github"
+          },
+          {
+              "name": "LinkedIn",
+              "link": "",
+              "type": "fab",
+              "iconName": "linkedin"
+          }
+      ],
+      "images": [
+          {
+              "src": "assets/img/personal.jpg",
+              "name": "Masum Billah"
+          },
+          {
+              "src": "assets/img/p1.jpg",
+              "name": "Masum Billah"
+          },
+          {
+              "src": "assets/img/p2.jpg",
+              "name": "Masum Billah"
+          }
+      ],
+      "video": [
+          {
+              "src": "https://vimeo.com/175353205"
+          }
+      ],
+      "skills": [
+        {
+            "skill": "UI Design",
+            "Percentage": 98
+        },
+        {
+            "skill": "UX Design",
+            "Percentage": 95
+        },
+        {
+            "skill": "Product Design",
+            "Percentage": 85
+        },
+        {
+            "skill": "Design Thinking",
+            "Percentage": 80
+        },
+        {
+            "skill": "User Research",
+            "Percentage": 60
+        }
+      ],
+      "experience": [
+        {
+            "company": "Google",
+            "time": "SeniorProduct Designer (Jan 2021 - Present)",
+            "description": "Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna."
+        },
+        {
+            "company": "Webflow",
+            "time": "Lead UI Designer (June 2019 - Dec 2020)",
+            "description": "Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna."
+        },
+        {
+            "company": "Figma",
+            "time": "Lead UI Designer (March 2016 - May 2019)",
+            "description": "Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna."
+        }
+        ]
+    }
+]
