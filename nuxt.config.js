@@ -20,6 +20,7 @@ export default defineNuxtConfig({
     '@/assets/styles/style.scss'
   ],
   router: {
+    base: '/',
     options: {
       scrollBehavior: {
         behavior: 'smooth'
