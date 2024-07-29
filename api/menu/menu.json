@@ -1,0 +1,31 @@
+[
+  {
+      "name": "Home",
+      "href": "/"
+  },
+  {
+      "name": "Projects",
+      "dropdownMenu": [
+          {
+              "name": "Banter - Communication platform",
+              "href": "portfolio/style-6/banter"
+          },
+          {
+            "name": "Etsy-ish - E-commerce platform",
+            "href": "portfolio/style-6/etsy-ish"
+          },
+          {
+            "name": "MeetPup - Event platform",
+            "href": "portfolio/style-6/meet-pup"
+          }
+      ]
+  },
+  {
+      "name": "About",
+      "href": "/about"
+  },
+  {
+      "name": "Contact",
+      "href": "/#contact-section"
+  }
+]
