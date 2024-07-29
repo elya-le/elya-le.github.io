@@ -31,9 +31,7 @@ jobs:
         run: npm install
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
-        with:
-          static_site_generator: nuxt
+        uses: actions/configure-pages@v2
 
       - name: Build Nuxt application
         run: npm run generate
@@ -41,7 +39,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: './dist'
 
   deploy:
     environment:
