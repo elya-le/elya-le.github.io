@@ -35,25 +35,25 @@
       ],
       "images": [
           {
-              "src": "assets/img/portfolio/project1/1.jpg",
+              "src": "/assets/img/portfolio/project1/1.jpg",
               "name": "Welcome page"
           },
           {
-              "src": "assets/img/portfolio/project1/2.jpg",
+              "src": "/assets/img/portfolio/project1/2.jpg",
               "name": "Discover page"
           },
           {
-              "src": "assets/img/portfolio/project1/3.jpg",
+              "src": "/assets/img/portfolio/project1/3.jpg",
               "name": "Servers"
           },
           {
-              "src": "assets/img/portfolio/project1/4.jpg",
+              "src": "/assets/img/portfolio/project1/4.jpg",
               "name": "Messaging"
           }
       ],
       "video": [
           {
-              "src": "assets/img/portfolio/project1/video.mp4"
+              "src": "/assets/img/portfolio/project1/video.mp4"
           }
       ]
   },
@@ -98,7 +98,7 @@
       ],
       "images": [
         {
-            "src": "assets/img/portfolio/project1/1.jpg",
+            "src": "/assets/img/portfolio/project1/1.jpg",
             "name": "Welcome page"
         },
         {

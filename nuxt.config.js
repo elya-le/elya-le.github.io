@@ -8,8 +8,8 @@ export default defineNuxtConfig({
     head: {
       title: 'Elya.dev',
       meta: [{ name: 'description', content: 'Elya Lê' }],
-      link: [{ rel: 'icon', type: 'image/x-icon', href: '/_nuxt/assets/img/logo-32x32.png' }],
-      script: [{ src: '/_nuxt/assets/js/threejs.min.js' }],
+      link: [{ rel: 'icon', type: 'image/x-icon', href: '/img/logo-32x32.png' }],  // Updated path
+      script: [{ src: '/js/threejs.min.js' }],  // Updated path
     },
   },
   devServer: { port: 8000 },
