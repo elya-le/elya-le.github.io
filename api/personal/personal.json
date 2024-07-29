@@ -128,16 +128,16 @@
       ],
       "images": [
           {
-              "src": "assets/img/personal.jpg",
-              "name": "Masum Billah"
+              "src": "/assets/img/personal.jpg",
+              "name": ""
           },
           {
               "src": "assets/img/p1.jpg",
-              "name": "Masum Billah"
+              "name": ""
           },
           {
               "src": "assets/img/p2.jpg",
-              "name": "Masum Billah"
+              "name": ""
           }
       ],
       "video": [
