@@ -1071,7 +1071,7 @@ const unheadPlugins = true ? [CapoPlugin({ track: true })] : [];
 
 const renderSSRHeadOptions = {"omitLineBreaks":false};
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"},{"name":"description","content":"Blackdsn Nuxt-js Template"}],"link":[{"rel":"icon","type":"image/x-icon","href":"/_nuxt/assets/img/logo-32x32.png"}],"style":[],"script":[{"src":"/_nuxt/assets/js/threejs.min.js"}],"noscript":[],"title":"Blackdsn"};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"},{"name":"description","content":"Elya Lê"}],"link":[{"rel":"icon","type":"image/x-icon","href":"/_nuxt/assets/img/logo-32x32.png"}],"style":[],"script":[{"src":"/_nuxt/assets/js/threejs.min.js"}],"noscript":[],"title":"Elya.dev"};
 
 const appRootTag = "div";
 

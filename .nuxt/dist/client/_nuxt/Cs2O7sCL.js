@@ -1,1 +1,0 @@
-import{o as t,c as s,u as n,N as r,e as l}from"./B4F6wtqX.js";const a=l("div",{class:"text"},"SCROLL",-1),c=[a],p={__name:"LinkScrollDown",props:{goToEl:String},setup(e){return(i,o)=>(t(),s("div",{ref:"btnScroll",onClick:o[0]||(o[0]=d=>n(r)(e.goToEl)),class:"dsn-scroll-bottom","data-dsn-option":'{"ease": "power4.inOut" , "duration" : 1.5}'},c,512))}};export{p as _};
